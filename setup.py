@@ -6,6 +6,6 @@ setup(name='worldsorter',
       url='https://github.com/gwhenrie/worldsorter',
       author='Graigry Henrie',
       author_email='gwhenrie@gmail.com',
-      license='MIT',
+      license='GPLV3',
       packages=['worldsorter'],
       zip_safe=True)
