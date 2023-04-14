@@ -3,9 +3,9 @@ from setuptools import setup
 setup(name='worldsorter',
       version='0.0.1',
       description='Markdown/config based world-building system.',
-      url='',
+      url='https://github.com/gwhenrie/worldsorter',
       author='Graigry Henrie',
-      author_email='',
+      author_email='gwhenrie@gmail.com',
       license='MIT',
       packages=['worldsorter'],
       zip_safe=True)
